@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vaa:home|Door43 (vaa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vaa|d43-vaa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vaa/archive/master.zip|d43-vaa.zip]]
+
+**Recent Changes**
+{{changes>ns = vaa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vaa|Ethnologue data]]
+
